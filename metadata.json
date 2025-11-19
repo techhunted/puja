@@ -1,0 +1,7 @@
+{
+  "name": "Neupane Puja Pasal POS",
+  "description": "A modern, responsive Point of Sale application for Neupane Puja Pasal with billing, inventory management, and sales analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
